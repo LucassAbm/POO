@@ -1,9 +1,10 @@
 package Exercises;
 
-public class Exercise_4 {
     /*
     Imprima todos os números pares de 0 até 100000
      */
+
+public class Exercise_4 {
     public static void main (String[] args) {
         int i;
         for (i = 0; i <= 100000; i++) {         // for (int i = 0; i <= 100000; i++)
