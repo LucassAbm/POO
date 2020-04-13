@@ -1,9 +1,10 @@
 package Exercises;
 
-public class Exercise_3 {
     /*
     Crie um switch que dado um valor de 1 a 7, considerando domingo = 1, imprima se é dia útil ou final de semana
      */
+
+public class Exercise_3 {
     public static void main (String[] args) {
         byte dia = 5;                                   // Switch só aceita byte, char, int, short, enum e String
         switch (dia) {
