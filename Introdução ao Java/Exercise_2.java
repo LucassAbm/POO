@@ -1,6 +1,5 @@
 package Exercises;
 
-public class Exercise_2 {
     /*
     Crie uma variável chamada salario e imprima seu imposto
     imposto:
@@ -9,6 +8,8 @@ public class Exercise_2 {
     salario >= 2000 && salario < 4000: 15%
     salario > 5000: 20%
      */
+
+public class Exercise_2 {
     public static void main(String[] args) {
         double salario = 2500;
         double imposto = 0;
